@@ -10,4 +10,4 @@ I'm a Biologist turned Software Engineer currently seeking ways to leverage my b
 ## Skills, Technologies & Tools
 | Languages | Frameworks, Platforms, & Libraries | Databases | Hosting | Programs & Tools |
 | --------- | ---------------------------------- | --------- | ------- | ---------------- |
-| HTML, CSS, JavaScript, Typescript | Express.js, Jest, JWT, MUI, NPM, NodeJS, Nodemon, React, React Router, SASS, Vite | MySQL | Heroku, Netlify, IONOS | Git, GitHub, VS Code, Postman, Jira, Figma, Canva, Notion |
+| HTML, CSS, JavaScript, Typescript | Express.js, Jest, JWT, MUI, NPM, NodeJS, React, SASS, Vite | MySQL | Heroku, Netlify, IONOS | Git, VS Code, Postman, Jira, Figma, Canva |
