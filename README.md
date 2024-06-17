@@ -1,8 +1,10 @@
 # Hi, I'm Carly!
 
-## Welcome to my GitHub Page ⭐️
+### Welcome to my GitHub Page ⭐️
 
-Where to find me:
+![Static Badge](https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&link=https%3A%2F%2Fcarlywilk.com%2F)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 [carlywilk.com](https://carlywilk.com/)
 
