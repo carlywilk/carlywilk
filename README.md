@@ -1,7 +1,7 @@
 # Hi, I'm Carly!
 
 ### Welcome to my GitHub Page ✨
-🔬 Biologist turned Software Engineer seeking ways to leverage my scientific background to aid in my transition to the tech industry.
+🔬 Biologist turned Software Engineer seeking ways to leverage my scientific background to aid in the transition to tech.
 
 
 [![Static Badge](https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&link=https%3A%2F%2Fcarlywilk.com%2F)](https://carlywilk.com/)
