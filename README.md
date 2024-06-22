@@ -12,4 +12,4 @@
 ## 💻 Skills, Technologies & Tools
 | Languages | Frameworks, Platforms, & Libraries | Databases | Hosting | Programs & Tools |
 | --------- | ---------------------------------- | --------- | ------- | ---------------- |
-| HTML, CSS, JavaScript, Typescript | Express.js, Jest, JWT, MUI, NPM, NodeJS, React, SASS, Vite | MySQL | Heroku, Netlify, IONOS | Git, VS Code, Postman, Jira, Figma, Canva |
+| HTML, CSS, JavaScript | Express.js, Jest, JWT, MUI, NPM, NodeJS, React, SASS, Vite | MySQL | Heroku, Netlify, IONOS | Git, VS Code, Postman, Jira, Figma, Canva |
