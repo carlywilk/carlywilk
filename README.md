@@ -1,7 +1,7 @@
 # Hi, I'm Carly!
 
 ### Welcome to my GitHub Page ✨
-As a software developer with a background in biology, I bring a unique blend of technical expertise and a strong commitment to fostering inclusive, accessible solutions. My experiences in both web development and executive assistance have shaped my ability to think critically, pay attention to detail, and quickly adapt to new challenges. My background in biology and sociology also informs my approach to problem-solving, bringing a keen eye for data management and thoughtful, intersectional perspectives on user needs.
+As a software developer with a background in biology and sociology, I bring a unique blend of technical expertise that has shaped my ability to think critically, pay attention to detail, and quickly adapt to new challenges. In addition to these skills, my professional and personal experiences have made equity-seeking and intersectional perspectives a cornerstone of my work, fostering connections grounded in care and consent.
 
 
 [![Static Badge](https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&link=https%3A%2F%2Fcarlywilk.com%2F)](https://carlywilk.com/)
